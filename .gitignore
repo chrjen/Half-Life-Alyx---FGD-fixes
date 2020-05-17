@@ -1,0 +1,7 @@
+// Ignore everything by default.
+*
+
+// Don't ignore the files below.
+!/hlvr.fgd
+!/fixes.fgd
+!.gitignore
