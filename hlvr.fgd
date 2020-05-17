@@ -7,7 +7,6 @@
 @include "halflife2.fgd"
 @include "markup_volumes.fgd"
 @include "postprocessing.fgd"
-@include "fixes.fgd"
 
 // Excluded entities. These are entities that are included from lower level fgd files that aren't 
 // functional or useful in this mod. Excluding them removes them from the list of entities aviable 
@@ -2682,3 +2681,5 @@
 = env_sky
 [
 ]
+
+@include "fixes.fgd"
